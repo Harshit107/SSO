@@ -1,1 +1,1 @@
-# API for mycloudmate
+# Single SignOn
