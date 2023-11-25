@@ -1,1 +1,1 @@
-# Single SignOn
+# Single SignOn - OneLogin
